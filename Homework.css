@@ -1,0 +1,178 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+   height: 300vh;
+   background-color: rgba(0, 0, 0, 0.644);
+}
+.CS16{
+    background-image: url(image/Source-2-in-CSGO-–-Dataminer-1.webp);
+    background-size: cover;
+    height: 100vh;
+    border-radius: 10px;
+    color: white ;
+    padding: 30px;
+
+}
+
+
+.CS{
+    color: rgb(36, 168, 171) ;
+    width: 100%;
+    background-color:rgba(187, 124, 36, 0.571);
+    position:sticky ;
+    height: 100px;
+     border-radius: 10px;
+    
+     top: 0;
+    
+}
+
+
+div .csgotext{
+    
+    width: 40%;
+    background-color: rgba(187, 124, 36, 0.571);
+ border-radius: 20px;
+}
+.image :hover {
+    transition: 1.0s;
+    transform: scale(1.2);
+
+    
+}
+
+
+
+
+
+
+
+
+.Story{
+    background-image: url(https://cdn.motor1.com/images/mgl/BB44v/s1/2016-dodge-challenger.jpg);
+    background-size: cover;
+    height: 100vh;
+    border-radius: 10px;
+    color: white ;
+    padding: 30px;
+
+}
+
+
+.Alver{
+    color: rgb(36, 168, 171) ;
+    width: 100%;
+    background-color:rgba(187, 124, 36, 0.571);
+    position:sticky ;
+    height: 100px;
+     border-radius: 10px;
+    
+     top: 0;
+    
+}
+
+
+div .Fullname {
+    
+    width: 30%;
+    background-color: rgba(187, 124, 36, 0.571);
+ border-radius: 20px;
+}
+.img :hover {
+    
+    transition: 1.0s;
+    transform: scale(0.9);
+
+    
+}
+
+
+
+
+
+.Xengel{
+    background-image: url(https://b.zmtcdn.com/data/pictures/2/19446282/c42e1727b1a51ed051ffb611e342bbc2.jpg);
+    background-size: cover;
+    height: 100vh;
+    border-radius: 10px;
+    color: white ;
+    padding: 30px;
+    
+    
+
+}
+
+
+.Banquet{
+    color: rgb(36, 168, 171) ;
+    width: 100%;
+    background-color:rgba(187, 124, 36, 0.571);
+    position:sticky ;
+    height: 100px;
+     border-radius: 10px;
+    
+     top: 0;
+    
+}
+
+
+.vodka.Fullname {
+    
+    width: 30%;
+    background-color: rgba(187, 124, 36, 0.571);
+ border-radius: 20px;
+}
+.vodka.image:hover {
+    transition: 1.0s;
+    transform: scale(0.9);
+
+    
+}
+
+
+
+
+.Taxi{
+    background-image: url(https://www.rmv.de/c/fileadmin/_processed_/1/c/csm_Taxi_Shutterstock_1000x667_4bedab50a7.jpg);
+    background-size: cover;
+    height: 100vh;
+    border-radius: 10px;
+    color: white ;
+    padding: 30px;
+
+}
+
+
+.Service{
+    color: rgb(36, 168, 171) ;
+    width: 100%;
+    background-color:rgba(187, 124, 36, 0.571);
+    position:sticky ;
+    height: 100px;
+     border-radius: 10px;
+    
+     top: 0;
+    
+}
+
+
+.online.Fullname{
+    
+    width: 30%;
+    background-color: rgba(187, 124, 36, 0.571);
+ border-radius: 20px;
+}
+.image1 :hover {
+    
+    transition: 1.0s;
+    transform: scale(0.9);
+
+    
+}
+
+
+
+
