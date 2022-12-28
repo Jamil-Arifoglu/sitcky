@@ -4,7 +4,7 @@
 
 
 body{
-   height: 300vh;
+   height: 400vh;
    background-color: rgba(0, 0, 0, 0.644);
 }
 .CS16{
@@ -25,9 +25,13 @@ body{
     position:sticky ;
     height: 100px;
      border-radius: 10px;
+     
     
      top: 0;
     
+}
+.CS h1{
+    font-size: 100px;
 }
 
 
@@ -36,6 +40,8 @@ div .csgotext{
     width: 40%;
     background-color: rgba(187, 124, 36, 0.571);
  border-radius: 20px;
+ font-size: 30px;
+ font-family: cursive;
 }
 .image :hover {
     transition: 1.0s;
@@ -43,6 +49,7 @@ div .csgotext{
 
     
 }
+
 
 
 
@@ -73,6 +80,9 @@ div .csgotext{
      top: 0;
     
 }
+.Alver h1{
+    font-size: 100px;
+}
 
 
 div .Fullname {
@@ -80,6 +90,8 @@ div .Fullname {
     width: 30%;
     background-color: rgba(187, 124, 36, 0.571);
  border-radius: 20px;
+ font-size: 30px;
+ font-family: cursive;
 }
 .img :hover {
     
@@ -116,6 +128,9 @@ div .Fullname {
     
      top: 0;
     
+}
+.Banquet h1{
+  font-size: 100px;  
 }
 
 
@@ -157,6 +172,9 @@ div .Fullname {
      top: 0;
     
 }
+.Service h1{
+    font-size: 100px;
+}
 
 
 .online.Fullname{
@@ -172,7 +190,57 @@ div .Fullname {
 
     
 }
+.Media{
+    font-size: 100px;
+}
+.Media :hover{
+    
+    transition: 1.0s;
+    transform: scale(0.9);
+}
 
 
 
 
+.Music{
+    background-image: url(https://media.istockphoto.com/id/475916678/vector/man-playing-trumpet.jpg?s=170667a&w=0&k=20&c=MSlLqute_S2JRAuJbjbDvEkxlcHRk9cDwqyX16HpBpc=);
+    background-size: cover;
+    height: 100vh;
+    border-radius: 10px;
+    color: white ;
+    padding: 30px;
+
+}
+
+
+.Musician{
+    color: rgb(36, 168, 171) ;
+    width: 100%;
+    background-color:rgba(187, 124, 36, 0.571);
+    position:sticky ;
+    height: 100px;
+     border-radius: 10px;
+    
+     top: 0;
+    
+}
+.Musician h1{
+    font-size: 100px;
+}
+
+
+.Trumpet.Fullname{
+    
+    width: 30%;
+    background-color: rgba(187, 124, 36, 0.571);
+ border-radius: 20px;
+}
+
+.Media{
+    font-size: 100px;
+}
+.Media :hover{
+    
+    transition: 1.0s;
+    transform: scale(0.9);
+}
